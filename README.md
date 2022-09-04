@@ -26,9 +26,8 @@ P.S. If you’re planning a surprise party for me, I’ll be happy with just abo
 
 ### On this site
 
-- Free Mumia
-- Why we attacked Iraq
-- Home
+- [Free Mumia](https://greg-raven.github.io/greg-raven/free_mumia/index.html)
+- [Why we attacked Iraq](https://greg-raven.github.io/greg-raven/iraq-attack/index.html)
 
 ### On other sites
 
