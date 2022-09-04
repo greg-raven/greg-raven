@@ -1,6 +1,1 @@
 User-agent: *
-
-Disallow: /cgi-bin/
-
-Sitemap: https://www.gregraven.info/sitemap.xml
-Sitemap: https://www.gregraven.info/sitemap.txt

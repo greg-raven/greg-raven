@@ -1,7 +1,6 @@
 # Redirect default Netlify subdomain to primary domain
 
-http://grinfo.netlify.app/* https://www.gregraven.info/:splat 301!
-https://grinfo.netlify.app/* https://www.gregraven.info/:splat 301!
+# normal redirects
 
 /free_mumia.html  /free_mumia/index.html  301
 /iraq-attack.html  /iraq-attack/index.html  301
