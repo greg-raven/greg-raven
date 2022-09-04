@@ -21,30 +21,3 @@ Now, at this point you’re probably asking yourself, “Is he still running tha
 P.S. If you’re planning a surprise party for me, I’ll be happy with just about anything from the Baskin-Robbins Suppressed Flavors List: i.e., Doe Knob, Toe Jamboree, Wet Collie Surprise, Muffle, Spleege Swirl, DEA Potpourri, etc.
 
 \* Like Kenya, Hollywood is very close to Waikiki.
-
-## Where I’m at:
-
-### On this site
-
-- [Free Mumia](https://greg-raven.github.io/greg-raven/free_mumia/index.html)
-- [Why we attacked Iraq](https://greg-raven.github.io/greg-raven/iraq-attack/index.html)
-
-### On other sites
-
-- My main site
-- Behind the words
-- Commentary
-- Cycling
-- Family history
-- Hate Facts
-- Hub O’ Plenty
-- Humor
-- Man and Myth
-- Money
-- Notable quotes
-- Plenty O’ Hub
-- Radio
-- Second Amendment
-- Tennis
-- Weather news
-- WordPress
