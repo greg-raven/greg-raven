@@ -16,7 +16,7 @@ However, "Greg Raven" is my slave name. My proper title is His Excellency the Pr
 
 I made my massive fortune fashioning turbinium and dilithium crystal jewelry (later selling that business to Samuels Jewelers), and I own the patent on the Zipper Fork&trade;. I currently own and operate two smaller businesses, one that specializes in ultra-high speed still life videography, and one that specializes in micro crowd sourcing. I am also proud to be the world's most over-qualified under-achiever.
 
-Now, at this point you're probably asking yourself, "Is he still running that IBM 5100, or is he running macOS 15 Sequoia on a Mac M4 Titanium Ultra Max, with a Pro Display XDR, 1.5TB of RAM, and an 8TB SSD Thunderbolt 4 Time Machine RAID-6 backup with onsite Cubbit and offsite p2p distributed filesystem NFS backup?" Well, to tell you the truth, in all the excitement I kinda forgot myself. So I guess the question you have to ask yourself is, "Do you feel lucky?" Well, do you, punk?
+Now, at this point you're probably asking yourself, "Is he still running UCSD p-System on that IBM 5100, or is he running macOS 15 Sequoia on a Mac M4 Titanium Ultra Max, with a Pro Display XDR, 1.5TB of RAM, and an 8TB SSD Thunderbolt 4 Time Machine RAID-6 backup with onsite Cubbit and offsite p2p distributed filesystem NFS backup?" Well, to tell you the truth, in all the excitement I kinda forgot myself. So I guess the question you have to ask yourself is, "Do you feel lucky?" Well, do you, punk?
 
 P.S. If you're planning a surprise party for me, I'll be happy with just about anything from the Baskin-Robbins Suppressed Flavors List: i.e., Doe Knob, Toe Jamboree, Wet Collie Surprise, Muffle, Spleege Swirl, DEA Potpourri, etc.
 
