@@ -23,3 +23,5 @@ P.S. If you're planning a surprise party for me, I'll be happy with just about a
 \* Like Kenya, Hollywood is very close to Waikiki.
 
 [Greg Raven](https://github.greg-raven.com)
+
+{% include footer.htm %}
