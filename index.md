@@ -118,46 +118,46 @@ There's absolutely nothing here that cannot be found elsewhere!
 - [U.S. Border Patrol fan site](https://usbp.gregraven.online)
 - [Weather News](https://weathernewsblog.wordpress.com)
 - [What are we doing?](https://www.waterwedoing.website)
-- [WordPress](https://gregraven.wordpress.com) | - [American Renaissance](https://www.amren.com) |
-- [Bastyon](https://bastyon.com/gregraven) |
-- [Bearing Arms](https://bearingarms.com) |
-- [Countable](https://www.countable.us/gregraven) |
-- [Discussions](https://discussions.app/u/gregraven) |
-- [Flickr](https://www.flickr.com/photos/gregraven) |
-- [Freetalk45](https://freetalk.app/gregraven) |
-- [Gab](https://gab.com/gregraven) |
-- [Gettr](https://gettr.com/user/gregraven) |
-- [Github](https://github.com/greg-raven) |
-- [Gitlab](https://gitlab.com/gregraven) |
-- [Goodreads](https://www.goodreads.com/user/show/78222706-greg-raven) |
-- [Gravatar](https://en.gravatar.com/gregraven) |
-- [Hacker News](https://news.ycombinator.com/submitted?id=gregraven) |
-- [Hot Air](https://hotair.com) |
-- [Imgur](https://gregraven.imgur.com) |
-- [LinkedIn](https://www.linkedin.com/in/gregraven) |
-- [Medium](https://www.medium.com/@gregraven) |
-- [Mewe](https://mewe.com/i/gregraven1) |
-- [Minds](https://www.minds.com/gregraven) |
-- [Neocities](/index.html) |
-- [Parler](https://parler.com/user/gregraven) |
-- [Pinterest](https://www.pinterest.com/gregraven5789) |
-- [PJ Media](https://pjmedia.com) |
-- [RedState](https://redstate.com) |
-- [Reddit](https://www.reddit.com/user/gregraven) |
-- [RideWithGPS](https://ridewithgps.com/users/17533) |
-- [RightOnly](https://rightonly.net/gregraven) |
-- [Rumble](https://rumble.com/user/gregraven) |
-- [Scribd](https://www.scribd.com/user/12291310/Greg-Raven) |
-- [Slug](https://slug.com/member/gregraven) |
-- [Strava](https://www.strava.com/athletes/graven) |
-- [Townhall](https://townhall.com) |
-- [Truth Social](https://truthsocial.com/@gregraven) |
-- [Tumblr](https://gregraven.tumblr.com) |
-- [Twitchy](https://twitchy.com) |
-- [uTattler](https://utattler.com/members/gregraven/profile) |
-- [Vivaldi](https://gregraven.vivaldi.net) |
-- [X](https://x.com/gregraven) |
-- [Yelp](https://gregraven.yelp.com) |
+- [WordPress](https://gregraven.wordpress.com) | - [American Renaissance](https://www.amren.com)
+- [Bastyon](https://bastyon.com/gregraven)
+- [Bearing Arms](https://bearingarms.com)
+- [Countable](https://www.countable.us/gregraven)
+- [Discussions](https://discussions.app/u/gregraven)
+- [Flickr](https://www.flickr.com/photos/gregraven)
+- [Freetalk45](https://freetalk.app/gregraven)
+- [Gab](https://gab.com/gregraven)
+- [Gettr](https://gettr.com/user/gregraven)
+- [Github](https://github.com/greg-raven)
+- [Gitlab](https://gitlab.com/gregraven)
+- [Goodreads](https://www.goodreads.com/user/show/78222706-greg-raven)
+- [Gravatar](https://en.gravatar.com/gregraven)
+- [Hacker News](https://news.ycombinator.com/submitted?id=gregraven)
+- [Hot Air](https://hotair.com)
+- [Imgur](https://gregraven.imgur.com)
+- [LinkedIn](https://www.linkedin.com/in/gregraven)
+- [Medium](https://www.medium.com/@gregraven)
+- [Mewe](https://mewe.com/i/gregraven1)
+- [Minds](https://www.minds.com/gregraven)
+- [Neocities](/index.html)
+- [Parler](https://parler.com/user/gregraven)
+- [Pinterest](https://www.pinterest.com/gregraven5789)
+- [PJ Media](https://pjmedia.com)
+- [RedState](https://redstate.com)
+- [Reddit](https://www.reddit.com/user/gregraven)
+- [RideWithGPS](https://ridewithgps.com/users/17533)
+- [RightOnly](https://rightonly.net/gregraven)
+- [Rumble](https://rumble.com/user/gregraven)
+- [Scribd](https://www.scribd.com/user/12291310/Greg-Raven)
+- [Slug](https://slug.com/member/gregraven)
+- [Strava](https://www.strava.com/athletes/graven)
+- [Townhall](https://townhall.com)
+- [Truth Social](https://truthsocial.com/@gregraven)
+- [Tumblr](https://gregraven.tumblr.com)
+- [Twitchy](https://twitchy.com)
+- [uTattler](https://utattler.com/members/gregraven/profile)
+- [Vivaldi](https://gregraven.vivaldi.net)
+- [X](https://x.com/gregraven)
+- [Yelp](https://gregraven.yelp.com)
 - [YouTube](https://www.youtube.com/gregraven) |
 
 
