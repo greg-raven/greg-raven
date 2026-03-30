@@ -4,25 +4,81 @@
 
 - Some kind of wonderful.
 
-Virtually no one on the Internet has ever asked, "Who is this person who calls himself 'Greg Raven'?" In response to the underwhelming curiosity, I am happy to to supply this background information.
+There's absolutely nothing here that cannot be found elsewhere!
 
-Before the beginning, there was this turtle. And the turtle was alone. And he looked around, and he saw his neighbor, which was his mother. And he lay down upon his neighbor, and behold! she bore him in tears an oak tree, which grew all day and then fell over --- like a bridge. And lo! underneath this bridge there came a catfish. And he was very big. And he was walking. And he was the biggest he had seen. And the fiery balls of this catfish --- one representing the sun, the other the moon --- whirled cold and lonely through the black hole of space.
+## My websites
 
-For some reason, these insignificant lumps came together to form the first union: Our Sun --- the heating system --- and about this glowing gasbag rotated the Earth, a cat's eye among aggies, blinking in astonishment across the face of time.
+- [1-6-2-4-3-5](https://162435.gregraven.online)
+- [All about me](https://about.gregraven.online)
+- [BBEdit for websites](https://bbedit-guide.netlify.com/)
+- [Genealogy](https://www.corax.org/)
+- [Gnome Sayings](https://www.department21.org/)
+- [Greg's Racquet Service](https://www.hdtennis.com/)
+- [Hate Facts](https://www.hatefacts.com/)
+- [High Desert Cycling](https://www.hdcycling.org/)
+- [Impeachment Chronicles](https://www.impeachment.network/)
+- [Vercel](https://gregraven.vercel.com)
+- [All my links](https://www.gregraven.online)
+- [Main website](https://www.gregraven.org/)
+- [Monetary Realism](https://www.infogristle.com/)
+- [Morgue Monkey](https://www.monkey-factory.com/)
+- [One Armed Man](https://www.one-armed-man.com/) / [Heeled](https://www.heeled.website/) / [Trigger Treat](https://www.trigger-treat.com/)
+- [The Other Side](https://www.gregraven.net/)
+- [Radio Static](https://www.greg-raven.com/)
+- [Truth to Power](https://www.gregraven.us/)
+- [The man behind the words](https://www.gregraven.vip/)
+- [Uncommon Sense](https://www.gregraven.website/)
+- [Weather News](https://weathernewsblog.wordpress.com/)
+- [What are we doing?](https://www.waterwedoing.website/)
+- [WordPress](https://gregraven.wordpress.com/)
 
-The Earth was covered with a molten scum of rocks, which bobbed like rats. Later when there was less heat, the oceans and the sewers began to simmer with a rich protein stew, and the mountains moved in to protect them. Life as we know it was already in progress. Animals without backbones hid from each other or fell down. Clamosaurs and oysterettes appeared as appetizers. Then came the giant sponges, sucking up ten percent of all life (except for the Giant Sea Orphans and Jungle Bunnies, which scared everybody).
+## My projects
 
-Hundreds of years later in the Late Devouring Period, fish became obnoxious. Trilobites, chiggerbites, and mosquitos collided aimlessly in the dense gas. Finally, tiny edible plants sprang up in rows, giving birth to generations of insecticides, and other small dying creatures. A short while later, [I was born in Honolulu, Hawaii](https://www.gregraven.org/resumes/hawaiian-live-birth).*
+- [Audit Apple Valley](https://auditav.gregraven.online/)
+- [Bekonia](https://www.bobbeken.site/)
+- [California Sanctuary Zone](https://california-sanctuary.monkey-factory.com/)
+- [Citizens for Government Accountability](https://cfga.gregraven.online/)
+- [Lightning Cycle Dynamics](https://www.lightningbikes.com/)
+- [Lizard's Rock Music](https://www.lizardsrockmusic.com/)
+- [Minnewawa Apartments](https://www.minnewawa-apts.com/)
+- [Qwotes](https://qwotes.monkey-factory.com)
+- [Tennis racquet science](https://www.racquetresearch.info/)
+- [USRSA's RacquetTECH.com](https://www.racquettech.com/)
+- [Wayciss](https://wayciss.gregraven.online/)
 
-However, "Greg Raven" is my slave name. My proper title is His Excellency the President for Life, LLD, PhD, BVD, LSD, APD, Conqueror of the British Empire in Africa in General and Uganda in Specific --- but you may call me Field Marshall Al-Hadji Doctor Raven Dada. Like most people my height, I have lead a dull but meaningless life since childhood, when I was kidnapped by Indians and turned into an Alien. If you must speak with me, keep in mind that I am still having some difficulties with your Earth languages and customs. Otherwise, I appear completely normal in all respects, other than having to eat twice my body weight every 24 hours to prevent my teeth from growing into my brain.
+## Sites I follow
 
-I made my massive fortune fashioning osmium, turbinium, arkenstone, vibranium, and dilithium crystal jewelry (later selling that business to Samuels Jewelers), and I own the patents on the Zipper Fork™ and the PermaShoe™. I own and operate three businesses, one that specializes in ultra-high speed still-life videography, one that specializes in micro crowd sourcing, and a ranch that raises bonsai cattle. I am also proud to be the world’s most over-qualified under-achiever.
-
-Now, at this point you’re probably asking yourself, "Is he still running that old HAL 9000, or is he running macOS 26 Tahoe on a massive Beowolf cluster of Mac Studios (each with M5 Max chip with 16‑core CPU, 32‑core GPU, Hardware-accelerated ray tracing, 16-core Neural Engine, 256GB of RAM, and 16TB SSD storage), a Pro Display XDR, an 2PB SSD Thunderbolt 5 Time Machine RAID-6 backup with onsite Cubbit, and an offsite p2p MLXgrid distributed filesystem NFS backup?" Well, to tell you the truth, in all the excitement I kinda forgot myself. So I guess the question you have to ask yourself is, "Do you feel lucky?" Well, do you, punk?
-
-P.S. If you're planning a surprise party for me, I'll be happy with just about anything from the Baskin-Robbins Suppressed Flavors List: i.e., Doe Knob, Toe Jamboree, Wet Collie Surprise, Muffle, Spleege Swirl, DEA Potpourri, etc.
-
-\* Like Kenya, Hollywood is very close to Waikiki.
+- [Bastyon](https://bastyon.com/gregraven)
+- [Countable](https://www.countable.us/gregraven)
+- [Discussions](https://discussions.app/u/gregraven)
+- [Flickr](https://www.flickr.com/photos/gregraven)
+- [Freetalk45](https://freetalk.app/gregraven)
+- [Gab](https://gab.com/gregraven)
+- [Gettr](https://gettr.com/user/gregraven)
+- [Github](https://github.com/greg-raven)
+- [Gitlab](https://gitlab.com/gregraven)
+- [Goodreads](https://www.goodreads.com/user/show/78222706-greg-raven)
+- [Gravatar](https://en.gravatar.com/gregraven)
+- [Hacker News](https://news.ycombinator.com/submitted?id=gregraven)
+- [Keybase](https://gregraven.keybase.pub/index.html)
+- [Imgur](https://gregraven.imgur.com/)
+- [LinkedIn](https://www.linkedin.com/in/gregraven)
+- [Medium](https://www.medium.com/@gregraven)
+- [Mewe](https://mewe.com/i/gregraven1)
+- [Minds](https://www.minds.com/gregraven/)
+- [Neocities](/index.html)
+- [Parler](https://parler.com/user/gregraven)
+- [Pinterest](https://www.pinterest.com/gregraven5789/)
+- [Reddit](https://www.reddit.com/user/gregraven)
+- [RideWithGPS](https://ridewithgps.com/users/17533)
+- [Scribd](https://www.scribd.com/user/12291310/Greg-Raven)
+- [Slug](https://slug.com/member/gregraven)
+- [Strava](https://www.strava.com/athletes/graven)
+- [Tumblr](https://gregraven.tumblr.com)
+- [uTattler](https://utattler.com/members/gregraven/profile/)
+- [Vivaldi](https://gregraven.vivaldi.net/)
+- [Yelp](https://gregraven.yelp.com/)
+- [YouTube](https://www.youtube.com/gregraven)
 
 [Greg Raven](https://github.com/greg-raven)
 
