@@ -17,11 +17,12 @@ There's absolutely nothing here that cannot be found elsewhere!
 - [Hate Facts](https://www.hatefacts.com)
 - [High Desert Cycling](https://www.hdcycling.org)
 - [Impeachment Chronicles](https://www.impeachment.network)
-- [Vercel](https://gregraven.vercel.com)
+- [Hub O' Plenty](https://gregraven.vercel.com)
 - [All my links](https://www.gregraven.online)
 - [Main website](https://www.gregraven.org)
 - [Monetary Realism](https://infogristle.gregraven.online)
 - [Morgue Monkey](https://www.monkey-factory.com)
+- [Plenty O' Hub](https://gregraven.neocities.org)
 - [One Armed Man](https://www.one-armed-man.com) / [Heeled](https://www.heeled.website) / [Trigger Treat](https://www.trigger-treat.com)
 - [The Other Side](https://www.gregraven.net)
 - [Radio Static](https://www.greg-raven.com)
@@ -49,7 +50,9 @@ There's absolutely nothing here that cannot be found elsewhere!
 
 ## Sites I follow
 
+- [American Renaissance](https://www.amren.com)
 - [Bastyon](https://bastyon.com/gregraven)
+- [Bearing Arms](https://bearingarms.com)
 - [Countable](https://www.countable.us/gregraven)
 - [Discussions](https://discussions.app/u/gregraven)
 - [Flickr](https://www.flickr.com/photos/gregraven)
@@ -61,6 +64,7 @@ There's absolutely nothing here that cannot be found elsewhere!
 - [Goodreads](https://www.goodreads.com/user/show/78222706-greg-raven)
 - [Gravatar](https://en.gravatar.com/gregraven)
 - [Hacker News](https://news.ycombinator.com/submitted?id=gregraven)
+- [Hot Air](https://hotair.com)
 - [Imgur](https://gregraven.imgur.com)
 - [LinkedIn](https://www.linkedin.com/in/gregraven)
 - [Medium](https://www.medium.com/@gregraven)
@@ -69,19 +73,29 @@ There's absolutely nothing here that cannot be found elsewhere!
 - [Neocities](/index.html)
 - [Parler](https://parler.com/user/gregraven)
 - [Pinterest](https://www.pinterest.com/gregraven5789)
+- [PJ Media](https://pjmedia.com)
+- [RedState](https://redstate.com)
 - [Reddit](https://www.reddit.com/user/gregraven)
 - [RideWithGPS](https://ridewithgps.com/users/17533)
 - [RightOnly](https://rightonly.net/gregraven)
+- [Rumble](https://rumble.com/user/gregraven)
 - [Scribd](https://www.scribd.com/user/12291310/Greg-Raven)
 - [Slug](https://slug.com/member/gregraven)
 - [Strava](https://www.strava.com/athletes/graven)
+- [Townhall](https://townhall.com)
 - [Truth Social](https://truthsocial.com/@gregraven)
 - [Tumblr](https://gregraven.tumblr.com)
+- [Twitchy](https://twitchy.com)
 - [uTattler](https://utattler.com/members/gregraven/profile)
 - [Vivaldi](https://gregraven.vivaldi.net)
 - [X](https://x.com/gregraven)
 - [Yelp](https://gregraven.yelp.com)
 - [YouTube](https://www.youtube.com/gregraven)
+
+| Column 1      | Column 2      |
+| ------------- | ------------- |
+| Cell 1, Row 1 | Cell 2, Row 1 |
+| Cell 1, Row 2 | Cell 1, Row 2 |
 
 [Greg Raven](https://github.com/greg-raven)
 
