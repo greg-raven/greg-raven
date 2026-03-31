@@ -48,6 +48,7 @@ There's absolutely nothing here that cannot be found elsewhere!
 <li><a href="https://www.racquetresearch.info">Racquet Research</a></li>
 <li><a href="https://usbp.gregraven.online">U.S. Border Patrol fan site</a></li>
 <li><a href="https://www.racquettech.com">USRSA's RacquetTECH.com</a></li>
+<li><a href="https://www.vdare-archive.com">VDare archive</a></li>
 <li><a href="https://wayciss.gregraven.online">Wayciss</a></li>
 <li><a href="https://weathernewsblog.wordpress.com">Weather News</a></li>
 <li><a href="https://www.waterwedoing.website">What are we doing?</a></li>
@@ -59,6 +60,7 @@ There's absolutely nothing here that cannot be found elsewhere!
 ## Sites I follow
 
 - [American Renaissance](https://www.amren.com)
+- [American Thinker](https://www.americanthinker.com)
 - [Bastyon](https://bastyon.com/gregraven)
 - [Bearing Arms](https://bearingarms.com)
 - [Countable](https://www.countable.us/gregraven)
@@ -80,6 +82,7 @@ There's absolutely nothing here that cannot be found elsewhere!
 - [Minds](https://www.minds.com/gregraven)
 - [Neocities](/index.html)
 - [Parler](https://parler.com/user/gregraven)
+- [Patriot Post](https://patriotpost.us)
 - [Pinterest](https://www.pinterest.com/gregraven5789)
 - [PJ Media](https://pjmedia.com)
 - [RedState](https://redstate.com)
@@ -95,6 +98,7 @@ There's absolutely nothing here that cannot be found elsewhere!
 - [Tumblr](https://gregraven.tumblr.com)
 - [Twitchy](https://twitchy.com)
 - [uTattler](https://utattler.com/members/gregraven/profile)
+- [VDare](https://www.vdare.com)
 - [Vivaldi](https://gregraven.vivaldi.net)
 - [X](https://x.com/gregraven)
 - [Yelp](https://gregraven.yelp.com)
