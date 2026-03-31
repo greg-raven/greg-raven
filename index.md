@@ -13,12 +13,12 @@ There's absolutely nothing here that cannot be found elsewhere!
 <tbody>
 <tr><td>
 <ul>
-<li><a href="https://162435.gregraven.online">1&#8211;6&#8211;2&#8211;4&#8211;3&#8211;5</a></li>
+<li><a href="https://162435.gregraven.online">1-6-2-4-3-5</a></li>
 <li><a href="https://about.gregraven.online">All about me</a></li>
 <li><a href="https://bbedit-guide.netlify.com">BBEdit for websites</a></li>
 <li><a href="https://www.corax.org">Genealogy</a></li>
 <li><a href="https://www.department21.org">Gnome Sayings</a></li>
-<li><a href="https://www.hdtennis.com">Greg&#8217;s Racquet Service</a></li>
+<li><a href="https://www.hdtennis.com">Greg's Racquet Service</a></li>
 <li><a href="https://www.hatefacts.com">Hate Facts</a></li>
 <li><a href="https://www.hdcycling.org">High Desert Cycling</a></li>
 <li><a href="https://www.impeachment.network">Impeachment Chronicles</a></li>
@@ -39,18 +39,18 @@ There's absolutely nothing here that cannot be found elsewhere!
 <li><a href="https://www.waterwedoing.website">What are we doing?</a></li>
 <li><a href="https://gregraven.wordpress.com">WordPress</a></li>
 </ul>
-</td><td>
+</td><td style="vertical-align: top;">
 <ul>
 <li><a href="https://auditav.gregraven.online">Audit Apple Valley</a></li>
 <li><a href="https://www.bobbeken.site">Bekonia</a></li>
 <li><a href="https://california-sanctuary.monkey-factory.com">California Sanctuary Zone</a></li>
 <li><a href="https://cfga.gregraven.online">Citizens for Government Accountability</a></li>
 <li><a href="https://www.lightningbikes.com">Lightning Cycle Dynamics</a></li>
-<li><a href="https://www.lizardsrockmusic.com">Lizard&#8217;s Rock Music</a></li>
+<li><a href="https://www.lizardsrockmusic.com">Lizard's Rock Music</a></li>
 <li><a href="https://www.minnewawa-apts.com">Minnewawa Apartments</a></li>
 <li><a href="https://qwotes.monkey-factory.com">Qwotes</a></li>
 <li><a href="https://www.racquetresearch.info">Racquet Research</a></li>
-<li><a href="https://www.racquettech.com">USRSA&#8217;s RacquetTECH.com</a></li>
+<li><a href="https://www.racquettech.com">USRSA's RacquetTECH.com</a></li>
 <li><a href="https://wayciss.gregraven.online">Wayciss</a></li>
 </ul></td></tr>
 </tbody>
