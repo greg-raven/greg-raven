@@ -17,15 +17,12 @@ There's absolutely nothing here that cannot be found elsewhere!
 <li><a href="https://about.gregraven.online">All about me</a></li>
 <li><a href="https://bbedit-guide.netlify.com">BBEdit for websites</a></li>
 <li><a href="https://www.corax.org">Genealogy</a></li>
-<li><a href="https://www.department21.org">Gnome Sayings</a></li>
 <li><a href="https://www.hdtennis.com">Greg's Racquet Service</a></li>
 <li><a href="https://www.hatefacts.com">Hate Facts</a></li>
 <li><a href="https://www.hdcycling.org">High Desert Cycling</a></li>
-<li><a href="https://www.impeachment.network">Impeachment Chronicles</a></li>
 <li><a href="https://gregraven.vercel.com">Hub O' Plenty</a></li>
 <li><a href="https://www.gregraven.online">All my links</a></li>
 <li><a href="https://www.gregraven.org">Main website</a></li>
-<li><a href="https://infogristle.gregraven.online">Monetary Realism</a></li>
 <li><a href="https://www.monkey-factory.com">Morgue Monkey</a></li>
 <li><a href="https://gregraven.neocities.org">Plenty O' Hub</a></li>
 <li><a href="https://www.one-armed-man.com">One Armed Man</a> / <a href="https://www.heeled.website">Heeled</a> / <a href="https://www.trigger-treat.com">Trigger Treat</a></li>
@@ -34,10 +31,6 @@ There's absolutely nothing here that cannot be found elsewhere!
 <li><a href="https://www.gregraven.us">Truth to Power</a></li>
 <li><a href="https://www.gregraven.vip">The man behind the words</a></li>
 <li><a href="https://www.gregraven.website">Uncommon Sense</a></li>
-<li><a href="https://usbp.gregraven.online">U.S. Border Patrol fan site</a></li>
-<li><a href="https://weathernewsblog.wordpress.com">Weather News</a></li>
-<li><a href="https://www.waterwedoing.website">What are we doing?</a></li>
-<li><a href="https://gregraven.wordpress.com">WordPress</a></li>
 </ul>
 </td><td style="vertical-align: top;">
 <ul>
@@ -45,13 +38,20 @@ There's absolutely nothing here that cannot be found elsewhere!
 <li><a href="https://www.bobbeken.site">Bekonia</a></li>
 <li><a href="https://california-sanctuary.monkey-factory.com">California Sanctuary Zone</a></li>
 <li><a href="https://cfga.gregraven.online">Citizens for Government Accountability</a></li>
+<li><a href="https://www.department21.org">Gnome Sayings</a></li>
+<li><a href="https://www.impeachment.network">Impeachment Chronicles</a></li>
 <li><a href="https://www.lightningbikes.com">Lightning Cycle Dynamics</a></li>
 <li><a href="https://www.lizardsrockmusic.com">Lizard's Rock Music</a></li>
 <li><a href="https://www.minnewawa-apts.com">Minnewawa Apartments</a></li>
+<li><a href="https://infogristle.gregraven.online">Monetary Realism</a></li>
 <li><a href="https://qwotes.monkey-factory.com">Qwotes</a></li>
 <li><a href="https://www.racquetresearch.info">Racquet Research</a></li>
+<li><a href="https://usbp.gregraven.online">U.S. Border Patrol fan site</a></li>
 <li><a href="https://www.racquettech.com">USRSA's RacquetTECH.com</a></li>
 <li><a href="https://wayciss.gregraven.online">Wayciss</a></li>
+<li><a href="https://weathernewsblog.wordpress.com">Weather News</a></li>
+<li><a href="https://www.waterwedoing.website">What are we doing?</a></li>
+<li><a href="https://gregraven.wordpress.com">WordPress</a></li>
 </ul></td></tr>
 </tbody>
 </table>
@@ -99,7 +99,5 @@ There's absolutely nothing here that cannot be found elsewhere!
 - [X](https://x.com/gregraven)
 - [Yelp](https://gregraven.yelp.com)
 - [YouTube](https://www.youtube.com/gregraven)
-
-[Greg Raven](https://github.com/greg-raven)
 
 {% include footer.htm %}
