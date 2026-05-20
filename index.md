@@ -14,7 +14,7 @@ There's absolutely nothing here that cannot be found elsewhere!
 <tr><td>
 <ul>
 <li><a href="https://162435.gregraven.online">1-6-2-4-3-5</a></li>
-<li><a href="https://about.gregraven.online">All about me</a></li>
+<li><a href="https://www.gregraven.info">All about me</a></li>
 <li><a href="https://bbedit-guide.netlify.com">BBEdit for websites</a></li>
 <li><a href="https://www.corax.org">Genealogy</a></li>
 <li><a href="https://www.hdtennis.com">Greg's Racquet Service</a></li>
