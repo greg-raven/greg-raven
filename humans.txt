@@ -45,7 +45,7 @@ X: @gregraven
 Location: Bueno Loco, California
 
 /* THANKS */
-Name: Mom and Cloudflare
+Name: Mom and GitHub
 
 /* SITE */
 Language:  English
