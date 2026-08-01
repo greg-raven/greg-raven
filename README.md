@@ -1,9 +1,3 @@
----
-title: "All about Greg Raven"
-permalink: /README.html
-layout: default
----
-
 # All about Greg Raven
 
 - Some kind of wonderful.
