@@ -1,3 +1,9 @@
+---
+title: "All about Greg Raven"
+permalink: /
+layout: default
+---
+
 {% include header.htm %}
 
 # All about Greg Raven
